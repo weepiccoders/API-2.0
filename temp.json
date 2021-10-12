@@ -1,0 +1,225 @@
+{
+	"userDetails": {
+		"userId": "1245454",
+		"userName": "alpha",
+		"userAge": "22",
+		"userTitle": "Full Stack Developer | Android Developer",
+		"userCourseDetails": {
+			"course": "B.tech",
+			"branch": "CSE",
+			"year": "3"
+		},
+		"userProfilePicture": "https://image.freepik.com/free-vector/sunset-mountains-with-pine-forest_7993-2327.jpg"
+	},
+	"information_announcement": [{
+			"infoText": "New Update Available",
+			"infoLink": ""
+		},
+		{
+			"infoText": "Apply for Netflix",
+			"infoLink": ""
+		}, {
+			"infoText": "Random Information",
+			"infoLink": ""
+		}, {
+			"infoText": "Random Information",
+			"infoLink": ""
+		}
+	],
+	"data": {
+		"totalJobsCount": "4",
+		"jobsData": [{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			},
+			{
+				"JobCompanyName": "Facebook",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Senior",
+				"jobImageUrl": "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Kolkata",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "React Developer"
+			},
+			{
+				"JobCompanyName": "Zomato",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Internship",
+				"jobImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Chennai",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Software Associate"
+			},
+			{
+				"JobCompanyName": "Tower Research",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Senior",
+				"jobImageUrl": "https://cdn.dribbble.com/users/1866741/screenshots/4701426/trc_3.png",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Pakistan",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Head Product Lead"
+			},
+			{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			},
+			{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			},
+			{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			},
+			{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			},
+			{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			},
+			{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			},
+			{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			},
+			{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			},
+			{
+				"JobCompanyName": "Google",
+				"JobRequirement": "Student shound aware momos making process",
+				"jobLevel": "Entry Level",
+				"jobImageUrl": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+				"jobLink": "https://www.youtube.com/",
+				"jobadditionalText": "momo, chutney, aata, thela,soyabeen, napkin",
+				"jobPostedDate": "15/08/2021",
+				"jobReportCount": "0",
+				"jobLocation": "Bangalore",
+				"jobSalary": "30000K $",
+				"jobLikeCount": "10",
+				"jobDesignation": "Android Developer"
+
+			}
+		]
+	}
+}
