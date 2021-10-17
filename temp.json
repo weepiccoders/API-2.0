@@ -11,7 +11,10 @@
 		},
 		"userProfilePicture": "https://image.freepik.com/free-vector/sunset-mountains-with-pine-forest_7993-2327.jpg"
 	},
-	"information_announcement": [{
+	"information_announcement": {
+		
+		"totalInfoCount":"5",
+		"info":[{
 			"infoText": "New Update Available",
 			"infoLink": ""
 		},
@@ -25,7 +28,7 @@
 			"infoText": "Random Information",
 			"infoLink": ""
 		}
-	],
+	]},
 	"data": {
 		"totalJobsCount": "4",
 		"jobsData": [{
