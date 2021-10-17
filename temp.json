@@ -30,7 +30,7 @@
 	]},
 	"jobsData": {
 		"totalJobsCount": "4",
-		"jobsData": [{
+		"jobs": [{
 				"JobCompanyName": "Google",
 				"JobRequirement": "Student shound aware momos making process",
 				"jobLevel": "Entry Level",
